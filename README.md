@@ -15,9 +15,9 @@
   </ul>
 
   <h2>Screenshots 📷</h2>
-  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/e6246b43-e0f1-4385-b2f4-0bc988f71c52" alt="Screenshot 3" width="300">
-  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/d709160a-0666-4574-aba4-63fae858a111" alt="Screenshot 1" width="300">
-  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/0008d614-18e3-4cb3-9e5b-d7ae4ed7cf2e" alt="Screenshot 2" width="300">
+  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/e6246b43-e0f1-4385-b2f4-0bc988f71c52" alt="Screenshot 3" width="150">
+  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/d709160a-0666-4574-aba4-63fae858a111" alt="Screenshot 1" width="150">
+  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/0008d614-18e3-4cb3-9e5b-d7ae4ed7cf2e" alt="Screenshot 2" width="150">
 
   <h2>Installation ⚙️</h2>
   <ol>
