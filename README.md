@@ -1,22 +1,71 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>flutter_alarm_dialog_page ⏰</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+      padding: 20px;
+      margin: 0;
+    }
+    h1 {
+      font-size: 36px;
+      text-align: center;
+      margin-bottom: 20px;
+      color: #fff;
+    }
+    p, li {
+      font-size: 18px;
+      line-height: 1.5;
+      color: #ccc;
+    }
+    code {
+      background-color: #222;
+      color: #fff;
+      padding: 2px 4px;
+      border-radius: 4px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    img {
+      display: block;
+      margin: 10px auto;
+      max-width: 100%;
+      height: auto;
+    }
+    h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #fff;
+    }
+    ol {
+      padding-left: 20px;
+    }
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
   <h1>flutter_alarm_dialog_page ⏰</h1>
   <p><code>flutter_alarm_dialog_page</code> is an example project used to create a simple dialog pages using Flutter. 💡</p>
   
+  <h2>Features ✨</h2>
+  <ul>
+    <li>Provides a user-friendly interface for displaying custom dialogs. 💬</li>
+    <li>Customize the content, appearance, and behavior of the dialogs. 🎨</li>
+    <li>Easily integrate and showcase custom dialog designs within your Flutter app. 📱</li>
+  </ul>
   
-<h2>Features ✨</h2>
-<ul>
-  <li>Provides a user-friendly interface for displaying custom dialogs. 💬</li>
-  <li>Customize the content, appearance, and behavior of the dialogs. 🎨</li>
-  <li>Easily integrate and showcase custom dialog designs within your Flutter app. 📱</li>
-</ul>
   <h2>Screenshots 📷</h2>
-  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/e6246b43-e0f1-4385-b2f4-0bc988f71c52" alt="Screenshot 3" width="200">
-  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/d709160a-0666-4574-aba4-63fae858a111" alt="Screenshot 1" width="200">
-  <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/0008d614-18e3-4cb3-9e5b-d7ae4ed7cf2e" alt="Screenshot 2" width="200">
+  <img src="https://example.com/screenshot1.png" alt="Screenshot 1">
+  <img src="https://example.com/screenshot2.png" alt="Screenshot 2">
+  <img src="https://example.com/screenshot3.png" alt="Screenshot 3">
 
   <h2>Installation ⚙️</h2>
   <ol>
@@ -37,4 +86,3 @@
   <p>This project is licensed under the MIT License. For more information, see the <a href="LICENSE">LICENSE</a> file.</p>
 </body>
 </html>
- 
