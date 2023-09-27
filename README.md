@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> flutter_alarm_dialog_page ⏰</title>
 </head>
 <body>
   <h1>flutter_alarm_dialog_page ⏰</h1>
