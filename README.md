@@ -4,7 +4,7 @@
 </head>
 <body>
   <h1>flutter_alarm_dialog_page ⏰</h1>
-  <p><code>flutter_alarm_dialog_page</code> is an example project used to create a simple alarm notification page using Flutter. 💡</p>
+  <p><code>flutter_alarm_dialog_page</code> is an example project used to create a simple dialog pages using Flutter. 💡</p>
   
   
 <h2>Features ✨</h2>
