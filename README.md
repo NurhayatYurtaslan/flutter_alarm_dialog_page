@@ -7,13 +7,13 @@
   <h1>flutter_alarm_dialog_page ⏰</h1>
   <p><code>flutter_alarm_dialog_page</code> is an example project used to create a simple alarm notification page using Flutter. 💡</p>
   
-  <h2>Features ✨</h2>
-  <ul>
-    <li>Provides a user-friendly interface for setting alarms. ⏱️</li>
-    <li>Customize the time, repeat options, and sound tone of the alarm. 🔔</li>
-    <li>When the alarm triggers, it displays a notification and offers the option to dismiss the alarm. 📢</li>
-  </ul>
-
+  
+<h2>Features ✨</h2>
+<ul>
+  <li>Provides a user-friendly interface for displaying custom dialogs. 💬</li>
+  <li>Customize the content, appearance, and behavior of the dialogs. 🎨</li>
+  <li>Easily integrate and showcase custom dialog designs within your Flutter app. 📱</li>
+</ul>
   <h2>Screenshots 📷</h2>
   <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/e6246b43-e0f1-4385-b2f4-0bc988f71c52" alt="Screenshot 3" width="200">
   <img src="https://github.com/NurhayatYurtaslan/flutter_alarm_dialog_page/assets/80510115/d709160a-0666-4574-aba4-63fae858a111" alt="Screenshot 1" width="200">
