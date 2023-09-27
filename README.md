@@ -6,7 +6,7 @@
     body {
       background-color: #000;
       color: #fff;
-      font-family: 'Arial', sans-serif;
+      font-family: Arial, sans-serif;
       padding: 20px;
       margin: 0;
     }
@@ -49,9 +49,15 @@
       color: #fff;
       text-decoration: none;
     }
+    .astronaut-img {
+      display: block;
+      margin: 40px auto;
+      width: 200px;
+    }
   </style>
 </head>
 <body>
+  <img src="https://example.com/astronaut.png" alt="Astronaut" class="astronaut-img">
   <h1>flutter_alarm_dialog_page ⏰</h1>
   <p><code>flutter_alarm_dialog_page</code> is an example project used to create a simple dialog pages using Flutter. 💡</p>
   
